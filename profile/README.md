@@ -3,7 +3,7 @@
 Welcome to the **MiniGreX Organization**, a dedicated initiative to empower journalists and security professionals worldwide. Rooted in the principles of press freedom and supported by the democratic ideals of transparency and accountability, our organization strives to provide tools that safeguard freedom of expression in challenging environments.
 
 ## **Our Mission**
-To support journalists, whistleblowers, and security developers with a secure and reliable infrastructure, ensuring that free and unbiased information continues to thrive, even under adverse circumstances.
+To support journalists, whistleblowers, and security developers with a secure and reliable web-infrastructure, ensuring that free and unbiased information continues to thrive, even under adverse circumstances.
 
 ## **Who We Are**
 MiniGreX is a collective of developers, security specialists, and advocates for press freedom. Together, we design and maintain tools that prioritize security, privacy, and ease of use.
