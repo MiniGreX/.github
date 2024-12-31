@@ -1,4 +1,4 @@
-# Organization Overview: MiniGreX
+# Overview: MiniGreX (Organization )
 
 Welcome to the **MiniGreX Organization**, a dedicated initiative to empower journalists and security professionals worldwide. Rooted in the principles of press freedom and supported by the democratic ideals of transparency and accountability, our organization strives to provide tools that safeguard freedom of expression in challenging environments.
 
