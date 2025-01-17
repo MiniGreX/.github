@@ -23,3 +23,6 @@ Together, we can make a difference in protecting the truth and those who strive 
 
 ## Legal
 [Readme please](LEGAL.md) 
+
+## WE ARE LOOKING FOR
+We are looking for Beta Tester with Security Skills . Secure Contact: MiniGreX [/at\] proton.me
