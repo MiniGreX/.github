@@ -3,8 +3,9 @@
 ## About us
 Github-page. https://minigrex.github.io/
 
-## Note
-we have no  Repositories! Please read [legal text](https://minigrex.github.io/#legal)
+> [!NOTE]
+> we have no public Repositories! Please read [Legal Notice](https://minigrex.github.io/#legal)
+
 
 ## **Join Us**
 If you share our vision and are interested in contributing to this initiative, please submit an application. We value integrity, innovation, and dedication to the principles of press freedom.
